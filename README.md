@@ -1,1 +1,3 @@
 # Simple-Sidebar-layout-with-POST-API-integration
+
+I have used java spring boot to disable **CORS** while trying to access the POST-integrated api with the https://webhook.site/ ...
